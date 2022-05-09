@@ -1,7 +1,7 @@
- ## Candlestick charting script, written in python using pandas and tkinter.
+ # Candlestick charting script, written in python using pandas and tkinter.
 
 
-### It draws japanese candlestick charts from financial data.
+## It draws japanese candlestick charts from financial data.
 
 **To achieve clarity it has bigger than usual level  of customisation.**
 
