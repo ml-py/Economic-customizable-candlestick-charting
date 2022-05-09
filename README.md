@@ -1,24 +1,20 @@
-# Binance chart tkinter.
+ # Candlestick charting script, written in python using pandas and tkinter.
 
-## Very bed nius! był reset i ani notatki z GitBasha ani część zmian wprowadzanych tu :((((((  :cry!
-
-# zrobiłem ciemniejsze cienie - nie wiem co wywalić 
-### trzeba napisać  You just need chart**.py file and *.csv. The program/script from *.py will use data from *.csv <br> obrazki Ci pokazuję do obejrzenia, tekt po polsku do przemyślenia, byś popłakać ze mną mógł. Kiedyś sie wproszę na pisanie tego "gón**wa"
 
 ## It draws japanese candlestick charts from financial data.
 
 ### To achieve clarity it has bigger than usual level  of customisation.
 
-### Optimised for small screen ⠀ or ⠀ huge needs.<br> It can fit loads of candles on the small definition screens. <br> It can even display one candle per one pixel column (see the last picture)
-<br> ⠀ or ⠀  per two pixel column — which is already very distinguishable.
-/resigning from
+### Optimised for small screen ⠀or ⠀huge needs.<br> It can fit loads of candles on the small definition screens. <br> It can even display one candle per one pixel column (see the last picture)
 
-### It's achieved by omitting popular candles frameworks <br> in need to unattach sizes of candles, sizes of their shadows, and sizes of spaces in between <br> ⠀ as well as ⠀ thickness of strokes — separatelly for body and shadows <br> ⠀ and at last ⠀ colors of all of those. <br> <br> In all candlestick libraries I used customisation did not allow such freedom like setting thickness/color of candle shadow separately from stroke of all candle which is WTH situation.  yes — it wasn't separated ! ! !
- which often craated WTH situation — really? Yes — it wasn't separated?
- which craated WTH situation way too often. Yes — it wasn't separated?
+It's achieved by omitting popular candles frameworks <br> in need to decouple sizes of candles, sizes of their shadows, and sizes of spaces in between <br> ⠀ as well as ⠀ thickness of strokes — separatelly for body and shadows <br> ⠀ and at last ⠀ colors of all of those. <br> <br> In all candlestick libraries I used customisation did not allow such freedom like setting thickness/color of candle shadow separately from stroke of all candle which is WTH situation.
 
 <img    src="210814sob062339 210807sob0808_forLineInPandas_df__number_of_candles scallerScalled_TkinterDisplayFullScreen ___PrzechwytWTrPełnoEkr.bmpPicasą_optimize=True.png"   >
 <br> <br> <br> <br> 
+
+### You just need ` binance_chart_tkinter.py ` file and data in ` *.csv. ` The program/script from ` *.py ` will use data from ` *.csv ` <br>
+
+
 
 ### If you don't see next charts you have too-high-density-screen xD
 
