@@ -28,12 +28,11 @@ print(  df.shape  )
 
 #                   fill_COLOR    tranparency_alpha    outline_color    outline_thickness
 #        =     {   'fill':'#008000',  'alpha':.8,   'outline':'green3',  'width':1   }
-FILL_uP  = dict(     fill='#008000',    alpha=0.95,     outline='green3',    width=0   )
-FILL_uP  = dict(     fill='#0000ff',    alpha=0.95,     outline='green3',    width=0   )
-FILL_··  = dict(     fill='#808080',    alpha=1.8,     outline='green3',    width=0   )
-FILL_Do  = dict(     fill='#800000',    alpha=1.8,     outline='red3'  ,    width=0   )
-FILL_sh  = dict(     fill='#000000',    alpha=1.25,    outline='white' ,    width=0   )
-FILL_sh  = dict(     fill='#000000',    alpha=1.25,    outline='pink'  ,    width=0   )
+FILL_uP  = dict(     fill='#008000',    alpha=.8,     outline='green3',    width=2   )
+FILL_··  = dict(     fill='#808080',    alpha=.8,     outline='green3',    width=2   )
+FILL_Do  = dict(     fill='#800000',    alpha=.8,     outline='red3'  ,    width=2   )
+FILL_sh  = dict(     fill='#000000',    alpha=.25,    outline='white' ,    width=0   )
+FILL_sh  = dict(     fill='#000000',    alpha=.25,    outline='pink'  ,    width=0   )
 
 # vol_low  = dict(     fill='#000000',    alpha=.0,     outline='pink'  ,    width=2   )
 vol_low  = dict(     fill='#000000',    alpha=.0,     outline='black' ,    width=1   )
@@ -51,9 +50,9 @@ VOLUME_FIELD_PART  =  0.3
 
 
 
-cX   =  thickness_of_the_candle  =  1
-cX_  =  thickness_of_the_shadow  =  1
-sX   =  spacing_of_the_candle    =  0
+cX   =  thickness_of_the_candle  =  4
+sX   =  spacing_of_the_candle    =  3
+cX_  =  thickness_of_the_shadow  =  4
 # sX   =  spacing_of_the_candle    =  cX'#000000',    alpha=.8,     outline='black' ,    width=2   )
 # FILL_Do  = dict(     fill='#800000',    alpha=.8,     outline='red3'  ,    width=2   )
 sX_  =  spacing_of_the_shadow    =  3
