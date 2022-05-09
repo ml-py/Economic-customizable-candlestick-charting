@@ -12,32 +12,32 @@ It's achieved by omitting popular candles frameworks <br> in need to decouple si
 <img    src="210814sob062339 210807sob0808_forLineInPandas_df__number_of_candles scallerScalled_TkinterDisplayFullScreen ___PrzechwytWTrPełnoEkr.bmpPicasą_optimize=True.png"   >
 <br> <br> <br> <br> 
 
-**You just need ` binance_chart_tkinter.py ` file and data in ` *.csv. ` The program/script from ` *.py ` will use data from ` *.csv ` <br>
+**You just need ` binance_chart_tkinter.py ` file and data in ` *.csv. ` The program/script from ` *.py ` will use data from ` *.csv ` <br>**
 
 
 
-**If you don't see next charts you have too-high-density-screen xD
+**If you don't see next charts you have too-high-density-screen xD**
 
-**2px per candle ⠀+⠀ 1px per space
+**2px per candle ⠀+⠀ 1px per space**
 <img    src="210807sob0808 thickness_of_the_candle=2  thickness_of_the_shadow=2  spacing_of_the_candle=1 CROP .png"   > <br> <br>  <br> 
 <img    src="220411pon1464.6 cX=thickness_of_the_candle=2 space=1 sh=1.00 +stroke=0 _ ChartWykres scallerScalled TkinterDisplayFullScreen.py.xcf.png"   >
 
 <br> 
 
-**1px per candle ⠀+⠀ 1px per space
+**1px per candle ⠀+⠀ 1px per space**
 <img    src="210807sob0808 thickness_of_the_candle=1  thickness_of_the_shadow=1  spacing_of_the_candle=1 .png CROP .png"   >
 
-**2px per candle ⠀+⠀ 0px per space
+**2px per candle ⠀+⠀ 0px per space**
 <img    src="220411pon1464.5 cX=thickness_of_the_candle=1 space=1 sh=1.00 +stroke=1 _ ChartWykres scallerScalled TkinterDisplayFullScreen.py.xcf.png"   >
 
 <br> <br> <br> 
 
-**1px per candle ⠀+⠀ 0px per space ⠀ ⠀ lighter
+**1px per candle ⠀+⠀ 0px per space ⠀ ⠀ lighter**
 <img    src="210807sob0808 thickness_of_the_candle=1  thickness_of_the_shadow=1  spacing_of_the_candle=0 .png CROP .png"   >
 
-**1px per candle ⠀+⠀ 0px per space ⠀ ⠀ darker
+**1px per candle ⠀+⠀ 0px per space ⠀ ⠀ darker**
 <img    src="220411pon1464.4 cX=thickness_of_the_candle=1 space=0 sh=1.00 +stroke=0 _ ChartWykres scallerScalled TkinterDisplayFullScreen.py.xcf.png"   >
 
-**1px per candle ⠀+⠀ 0px per space ⠀ ⠀ but + 1px of body stroke <br> ⠀ — ⠀ so it's 2px candle every 1px of the screen
+**1px per candle ⠀+⠀ 0px per space ⠀ ⠀ but + 1px of body stroke <br> ⠀ — ⠀ so it's 2px candle every 1px of the screen**
 
 <img    src="220411pon1464.3 cX=thickness_of_the_candle=1 space=0 sh=1.00 +stroke=1 _ ChartWykres scallerScalled TkinterDisplayFullScreen.py.xcf.png"   >
